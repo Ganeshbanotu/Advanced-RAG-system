@@ -318,11 +318,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 📞 Support
-- **Email:** riteshbandaru27@gmail.com
+- **Email:** ganeshbanothu1912@gmail.com
 
 ---
 
 **⭐ Star this repository if you found it helpful!**
 
 Built with ❤️ for healthcare professionals worldwide
+
 
